@@ -23,7 +23,7 @@ Google Sheets could be your new CMS for Gatsby or others projects.
 ✍️ WYSIWYG integrated (**coming soon**)  
 
 ## Start Now !
-You can create a copy of SetizerCMS on your drive and start your CMS with this [Googe Drive](https://docs.google.com/spreadsheets/d/1mmuNDD11eCYA3YtqJAH7vBXUl5a7jj17fVZuHB1VkY4/copy) link.
+Create your copy of [SetizerCMS](https://docs.google.com/spreadsheets/d/1mmuNDD11eCYA3YtqJAH7vBXUl5a7jj17fVZuHB1VkY4/copy).
 
 ## Todo List
 - [ ] Little documentation
