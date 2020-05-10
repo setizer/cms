@@ -8,7 +8,7 @@ Google Sheets could be your new CMS for Gatsby or others projects.
 🧑‍🤝‍🧑 Easy collaboration  
 📱 Desktop web, Mobile app  
 🛩 Offline redaction  
-💸 External CMS not needed
+💸 External CMS not needed  
 🔥 No content in your source code  
 
 ## What does SetizerCMS offer you : 
